@@ -63,7 +63,7 @@ I used Claude.
 - at the start, I copy colors and fonts into Claude and ask it to write the root variables.
 - when I am done, I ask Claude to check code for accessibility improvements.
 - I may ask questions how to approach something - like "whats the best way of targeting these different testimonial cards for styling? with unique id's or with 3 classes? Do Not GIve me the code" 
-I used Claude code to create a branch and deploy to it, then I switched to doing it myself so that I can learn to do it before automating it.
+- I used Claude code to create a branch and deploy to it, then I switched to doing it myself so that I can learn to do it before automating it. I used Claude to trobleshoot my failed branch merging
 
 
 

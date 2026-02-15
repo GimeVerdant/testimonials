@@ -68,8 +68,9 @@ main {
   border: 0;
 }
 
-h2 {
+.testimonial-title {
   font-weight: var(--font-semibold);
+  font-size:2rem ;
 }
 
 p {
@@ -105,6 +106,7 @@ p {
   font-weight: var(--font-medium);
 }
 .author .title {
+   font-size: 1.3rem;
   font-size: 1.1rem;
 }
 

@@ -46,7 +46,7 @@ Users should be able to:
 ### What I learned
 
 Css grid and Flex. 
-Using an element (H1) vsible only to screen readers for accessibility.
+Using an element (h1/h2) vsible only to screen readers for accessibility.
 Deploying to a branch, merging
 
 
